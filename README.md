@@ -69,5 +69,5 @@ MIT License - See the [LICENSE](LICENSE) file for details
 
 ## Related links
 
-- [Castar official website](https://www.example.com)
-- [SDK documentation](https://www.example.com/docs)
+- [Castar official website](https://www.castarsdk.com)
+- [SDK documentation](https://docs.castarsdk.com)
